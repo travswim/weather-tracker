@@ -1,0 +1,47 @@
+{
+   "cnt":1,
+   "list":[
+      {
+         "coord":{
+            "lon":-123.07,
+            "lat":49.37
+         },
+         "sys":{
+            "type":1,
+            "id":3359,
+            "message":0.0066,
+            "country":"CA",
+            "sunrise":1467893766,
+            "sunset":1467951524
+         },
+         "weather":[
+            {
+               "id":520,
+               "main":"Rain",
+               "description":"light intensity shower rain",
+               "icon":"09d"
+            }
+         ],
+         "main":{
+            "temp":16.2,
+            "pressure":1013,
+            "humidity":82,
+            "temp_min":15,
+            "temp_max":18
+         },
+         "wind":{
+            "speed":6.2,
+            "deg":120
+         },
+         "rain":{
+            "1h":0.25
+         },
+         "clouds":{
+            "all":90
+         },
+         "dt":1467930560,
+         "id":6090786,
+         "name":"North Vancouver"
+      }
+   ]
+}
